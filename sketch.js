@@ -2,7 +2,7 @@
 // Ash205
 
 let grid,cloud;
-let n=20;
+let n=15;
 let space = n/2;
 let dark = "#f7e816";
 let light = "#e8e06d";
